@@ -2,8 +2,8 @@ var Tx     = require('ethereumjs-tx')
 const Web3 = require('web3')
 const web3 = new Web3('https://ropsten.infura.io/YOUR_INFURA_API_KEY')
 
-const account1 = '' // Your account address 1
-const account2 = '' // Your account address 2
+const account1 = '0xd26114cd6EE289AccF82350c8d8487fedB8A0C07 ' // Your account address 1
+const account2 = '0x90e63c3d53E0Ea496845b7a03ec7548B70014A91' // Your account address 2
 
 const privateKey1 = Buffer.from('YOUR_PRIVATE_KEY_1', 'hex')
 const privateKey2 = Buffer.from('YOUR_PRIVATE_KEY_2', 'hex')

@@ -3,7 +3,7 @@
 Learn how to use web3.js with these examples!
 
 ## Getting Started
-Install dependencies.
+Install dependencies.   
 
 `$ npm install`
 
